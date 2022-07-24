@@ -1,6 +1,7 @@
 # FeedMonkeyProblem
 
 Problem:
+
 You work in a zoo and your job is feeding monkeys with Bananas and Apples. The zoo has an unlimited 
 number of identical Monkeys, and each monkey can eat any number of Bananas and Apples at a time. 
 You are given Bananas and Apples and need to distribute them among the monkeys. You want to feed 
@@ -22,4 +23,5 @@ If you find this problem too difficult, you can limit bananas and apples to no m
 
 
 Idea:
+
 use the number of bananas and apples as col and row of 2d array, fill the array with False, when go through the 2d array, each time when it reaches, turn into True.
